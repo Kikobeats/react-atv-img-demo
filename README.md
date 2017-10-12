@@ -1,5 +1,7 @@
 # react-img-atv
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/react-img-atv.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/react-img-atv.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/react-img-atv/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/react-img-atv)
 [![Dependency status](http://img.shields.io/david/Kikobeats/react-img-atv.svg?style=flat-square)](https://david-dm.org/Kikobeats/react-img-atv)
