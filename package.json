@@ -25,9 +25,7 @@
     "react-component"
   ],
   "dependencies": {
-    "prop-types": "~15.6.0",
-    "react": "~16.2.0",
-    "react-dom": "~16.2.0"
+    "prop-types": "^15"
   },
   "devDependencies": {
     "babel-cli": "latest",
@@ -37,10 +35,13 @@
     "babel-preset-env": "latest",
     "babel-preset-react": "latest",
     "babel-preset-react-optimize": "latest",
+    "react": "^16",
+    "react-dom": "^16",
     "standard": "latest"
   },
   "engines": {
-    "node": ">= 8"
+    "node": ">= 8",
+    "react": ">= 16 < 17"
   },
   "files": [
     "dist"
