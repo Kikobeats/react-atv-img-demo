@@ -2,7 +2,7 @@
   "name": "react-img-atv",
   "description": "Apple TV 3D parallax effect as component",
   "homepage": "https://github.com/Kikobeats/react-img-atv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
