@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2018-01-01)
+
+* Move from engine to peerDependency ([2bc6063](https://github.com/Kikobeats/react-img-atv/commit/2bc6063))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2018-01-01)
 
