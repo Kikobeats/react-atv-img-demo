@@ -25,7 +25,7 @@
     "react-component"
   ],
   "dependencies": {
-    "prop-types": "~15.5.4"
+    "prop-types": "~15.6.1"
   },
   "devDependencies": {
     "babel-cli": "latest",
