@@ -1,3 +1,14 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2018-04-26)
+
+* Add better browser targets ([d193887](https://github.com/Kikobeats/react-img-atv/commit/d193887))
+* Update package.json ([fab37fe](https://github.com/Kikobeats/react-img-atv/commit/fab37fe))
+* Update README.md ([c3987ec](https://github.com/Kikobeats/react-img-atv/commit/c3987ec))
+* fix(package): update prop-types to version 15.6.1 ([ea54cda](https://github.com/Kikobeats/react-img-atv/commit/ea54cda))
+* docs(readme): add Greenkeeper badge ([ea102fb](https://github.com/Kikobeats/react-img-atv/commit/ea102fb))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2018-01-01)
 
